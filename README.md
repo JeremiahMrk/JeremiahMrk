@@ -75,3 +75,4 @@ Mentored approximately 10 university students through technical-course review, p
 - **LinkedIn:** [linkedin.com/in/jeremiah-mark](https://www.linkedin.com/in/jeremiah-mark)
 - **GitHub:** [github.com/JeremiahMrk](https://github.com/JeremiahMrk)
 - **Email:** jeremiahmark2006@gmail.com
+- **Education mail:** jeremiah.mark@binus.ac.id
