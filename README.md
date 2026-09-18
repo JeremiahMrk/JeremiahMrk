@@ -2,7 +2,7 @@
 
 ### Cyber Security Student | SOC / Blue Team | GRC
 
-Cyber Security student at BINUS University focused on **security monitoring, detection engineering, incident investigation, and Governance, Risk, and Compliance (GRC)**.
+Cyber Security student at BINUS University focused on **security monitoring, incident investigation, and Governance, Risk, and Compliance (GRC)**.
 
 I build hands-on defensive security projects around SIEM monitoring, custom detections, alert automation, incident-response documentation, risk assessment, and control evaluation.
 
@@ -18,8 +18,8 @@ Currently seeking a **full-time Cybersecurity Internship starting February 2027*
 
 ## Technical Skills
 
-- **SOC / Blue Team:** Wazuh SIEM, Sysmon, Log Analysis, Alert Triage, Incident Investigation, Threat Hunting, Detection Engineering, MITRE ATT&CK
-- **GRC:** Risk Assessment, Risk Register, ISO/IEC 27001:2022, Statement of Applicability, Control Gap Analysis, NIST CSF 2.0, Evidence Traceability
+- **SOC / Blue Team:** Wazuh SIEM, Sysmon, Log Analysis, Alert Triage, Incident Investigation, Threat Hunting, MITRE ATT&CK
+- **GRC:** Risk Assessment, Risk Register, ISO/IEC 27001:2022, Statement of Applicability, Control Gap Analysis, NIST CSF 2.0
 - **Systems & Automation:** Windows, Linux / Ubuntu, PowerShell, Bash, n8n, Docker, HTTP / Webhooks, JSON, Git / GitHub
 - **Security Testing:** Android Security Testing, SAST, DAST, JADX, Burp Suite, ADB / logcat, CVSS v3.1
 
