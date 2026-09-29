@@ -13,7 +13,7 @@ Currently seeking a **full-time Cybersecurity Internship starting February 2027*
 ## Professional Certification
 
 - **Google Cybersecurity Professional Certificate** — Google / Coursera, completed May 2026
-- - **Certified Network Security Practitioner** — The SecOps Group, completed Jan 2026
+- **Certified Network Security Practitioner** — The SecOps Group, completed Jan 2026
 
 ---
 
