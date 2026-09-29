@@ -21,8 +21,8 @@ Currently seeking a **full-time Cybersecurity Internship starting February 2027*
 
 - **SOC / Blue Team:** Wazuh SIEM, Sysmon, Log Analysis, Alert Triage, Incident Investigation, Threat Hunting, MITRE ATT&CK
 - **GRC:** Risk Assessment, Risk Register, ISO/IEC 27001:2022, Statement of Applicability, Control Gap Analysis, NIST CSF 2.0
-- **Systems & Automation:** Windows, Linux / Ubuntu, PowerShell, Bash, n8n, Docker, HTTP / Webhooks, JSON, Git / GitHub
-- **Security Testing:** Android Security Testing, SAST, DAST, JADX, Burp Suite, ADB / logcat, CVSS v3.1
+- **Systems & Automation:** Windows, Linux / Ubuntu, PowerShell, n8n, Docker, HTTP / Webhooks, JSON, Git / GitHub
+- **Security Testing:** Android Security Testing, SAST, DAST, JADX, Burp Suite, ADB, CVSS v3.1
 
 ---
 
