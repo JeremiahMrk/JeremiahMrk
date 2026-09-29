@@ -1,6 +1,6 @@
 # Jeremiah Mark
 
-### Cyber Security Student | SOC / Blue Team | GRC
+### Cyber Security Student - Blue Team
 
 Cyber Security student at BINUS University focused on **security monitoring, incident investigation, and Governance, Risk, and Compliance (GRC)**.
 
